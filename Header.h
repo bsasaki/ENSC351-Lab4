@@ -2,13 +2,8 @@
 
 #include <iostream>
 #include <fstream>
-#include <istream>
-#include <ostream>
-#include <sstream>
-#include <map>
 #include <vector>
 #include <string>
-#include <thread>
 #include <mutex>
 #include <omp.h>
 
