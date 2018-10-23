@@ -1,0 +1,7 @@
+---------------MapReduce---------------
+hello: 8
+bye: 4
+yes: 4
+apple: 2
+banana: 1
+no: 1

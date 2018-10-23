@@ -12,7 +12,6 @@ std::vector<myMap> maps;
 std::vector<myMap> reduced_pairs;
 double single_time, map_time = 0;
 
-
 int main() {
 	ifstream in_file;
 	out_file.open("mapReduceOut.txt");
